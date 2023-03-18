@@ -1,5 +1,11 @@
 # xteve, guide2go in one docker with cron 
 
+Thanks to the work of alturismo I just took what he did and rebuilt the binaries for the Raspberry Pi
+
+This latest image, available on Docker Hub is built for 64bit ARM, so I guess thats RPi3, 4, and Zero2 - I've only tried it on an RPi 4
+
+The rest of this readme is his documentation:
+
 docker runs in host mode \
 access xteve webui ip:34400/web/
 
